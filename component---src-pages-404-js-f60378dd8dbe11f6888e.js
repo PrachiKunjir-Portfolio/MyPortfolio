@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[883],{4940:function(e,t,B){B.r(t);var l=B(7378);t.default=function(){return l.createElement("div",null,l.createElement("button",{className:"py-4 px-4 bg-blue-500"},"BBBBBBBBBBBBBBBBB"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-f60378dd8dbe11f6888e.js.map
