@@ -6,7 +6,7 @@ import Button from '../Atoms/button'
 const Footer = () => {
   return (
     <div className="max-w-7xl mx-auto p-20 mt-10 bg-lightblack rounded-xl sm:grid-flow-row">
-        <div className="grid grid-cols-2">
+        <div className="grid grid-cols-2 xxs:grid-cols-1 lg:grid-cols-2">
         <div>
           <h1 className="text-white text-4xl text-bold">Send me your thoughts/opprtunities</h1>
           <p className="text-white text-sm mt-5 opacity-50">
@@ -29,7 +29,7 @@ const Footer = () => {
             title="Send Message"
             textColor="text-white"
             type="submit"
-            marginClass="ml-5"
+            marginClass="ml-1"
           ></Button>
           </form>
         </div>
