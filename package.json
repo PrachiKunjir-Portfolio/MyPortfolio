@@ -14,7 +14,6 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-<<<<<<< HEAD
     "fade": "^0.2.0",
     "gatsby": "^4.13.1",
     "gatsby-plugin-gatsby-cloud": "^4.14.0",
@@ -26,7 +25,6 @@
     "gatsby-source-filesystem": "^4.14.0",
     "gatsby-transformer-sharp": "^4.14.0",
     "gatsby": "^4.14.0",
->>>>>>> cfee6b28cf653d9043fa4e9e5f2759b59c0c80ec
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
