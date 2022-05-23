@@ -7,7 +7,8 @@ const Header = () => {
   return (
     <div className="max-w-7xl mx-auto px-8">
       <Fade>
-        <div>
+        <div className="flex flex-row space-x-96">
+          <div className="mr-5">
           <h2 className="text-white font-poppins opacity-50 font-semibold mt-20 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-xl">
             I deliver premium creative solution
           </h2>
@@ -17,7 +18,17 @@ const Header = () => {
               Front-end Developer.
             </span>
           </h1>
+          </div>
+          <div className="rounded-xl w-56 h-12 ml-55 mt-32 flex flex-col content-center justify-center align-middle text-center bg-gradient-to-r bg-white bg-opacity-10 hover:from-purple-400 hover:to-pink-300 transition duration-500 ease-in-out">
+            <h1 className="text-white text-xl"> <Link
+                  className="text-white cursor-pointer font-poppins"
+                  to="https://drive.google.com/file/d/12q9-Z9z-ie9Dekkd138E8HX9KdExOPbM/view?usp=sharing"
+                >
+                  Download Resume
+                </Link></h1>
+          </div>
         </div>
+        
       </Fade>
 
       <div className="max-w-7xl mx-auto mt-10">
