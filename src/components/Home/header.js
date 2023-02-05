@@ -23,7 +23,7 @@ const Header = () => {
           <div className="rounded-xl w-56 h-12 ml-55 mt-32 flex flex-col content-center justify-center align-middle text-center bg-gradient-to-r bg-white bg-opacity-10 hover:from-purple-400 hover:to-pink-300 transition duration-500 ease-in-out">
             <h1 className="text-white text-xl"> <Link
                   className="text-white cursor-pointer font-poppins"
-                  to="https://drive.google.com/file/d/12q9-Z9z-ie9Dekkd138E8HX9KdExOPbM/view?usp=sharing"
+                  to="https://drive.google.com/file/d/1tkmL7bx3iEoT8WQ8ks7W0qe7iTVmnLx0/view?usp=share_link"
                 >
                   Download Resume
                 </Link></h1>
