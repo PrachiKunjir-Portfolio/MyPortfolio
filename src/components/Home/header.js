@@ -1,6 +1,7 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import HeaderImage from "../../images/header-main.jpg"
+import Commvault from "../../images/Commvault.jpg"
 import { Link } from "gatsby"
 
 const Header = () => {
@@ -30,12 +31,23 @@ const Header = () => {
         </div>
         
       </Fade>
+      <div className="flex flex-row space-x-96">
+          <div className="mr-5">
+          <h2 className="text-white font-poppins opacity-50 font-semibold mt-20 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-xl">
+            Expert Front End Developer with a passion for crafting visually stunning and highly functional websites and applications. I bring a deep understanding of modern web development techniques and trends. Proven track record of delivering high-quality, on-time results through efficient problem-solving and strong attention to detail. Committed to staying up-to-date with industry advancements and continuously improving my skills. Ready to bring my expertise and creativity to your next web development project.
+            <br />
+            <br />
+            Learn more about me..
 
-      <div className="max-w-7xl mx-auto mt-10">
+          </h2>
+          </div>
+          </div>
+
+      {/* <div className="max-w-7xl mx-auto mt-10">
         <div className="w-full h-auto overflow-hidden rounded-xl">
-          <img className="w-full h-full" src={HeaderImage} alt="Header"></img>
+          <img height="200px" width="400px" className="w-full h-full" src={Commvault} alt="Header"></img>
         </div>
-      </div>
+      </div> */}
       <Fade bottom cascade>
         <div className="w-full flex flex-row justify-between mt-10 xxs:flex-col xs:flex-col sm:flex-row">
           <div className="rounded-xl w-full h-52 flex flex-col content-center justify-center align-middle text-center m-5 bg-gradient-to-r bg-white bg-opacity-10 hover:from-purple-400 hover:to-pink-300 transition duration-500 ease-in-out">

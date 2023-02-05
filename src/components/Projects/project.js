@@ -1,7 +1,7 @@
 import React from 'react'
 import Fade from "react-reveal/Fade"
 
-const Project = ({Title,Info1,Info2,Img1,Title2,Info3,Info4,Img2}) => {
+const Project = ({Title,Info1,Info2,Img1,Title2,Info3,Info4,Img2,link1,link2}) => {
     return (
         <div className="max-w-7xl mx-auto mt-10">
           <Fade bottom cascade>
@@ -16,7 +16,7 @@ const Project = ({Title,Info1,Info2,Img1,Title2,Info3,Info4,Img2}) => {
                 </p>
               </div>
               <div className="w-2/4 rounded-xl overflow-hidden m-2">
-                <img src={Img1}></img>
+              <a href={link1}><img src={Img1}></img></a>
               </div>
             </div>
           </Fade>
@@ -32,7 +32,7 @@ const Project = ({Title,Info1,Info2,Img1,Title2,Info3,Info4,Img2}) => {
                 </p>
               </div>
               <div className="w-3/5 rounded-xl overflow-hidden m-2">
-                <img src={Img2}></img>
+              <a href={link2}><img src={Img2}></img></a>
               </div>
             </div>
           </Fade>
