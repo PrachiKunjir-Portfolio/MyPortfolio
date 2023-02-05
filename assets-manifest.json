@@ -1,7 +1,8 @@
 {
   "app-0a0ef1802c8dbbfe05f0.js.map": "app-0a0ef1802c8dbbfe05f0.js.map",
+  "app-139d8012c749781f808c.js.map": "app-139d8012c749781f808c.js.map",
   "app-822345a31c09a3f5df83.js.map": "app-822345a31c09a3f5df83.js.map",
-  "app.js": "app-0a0ef1802c8dbbfe05f0.js",
+  "app.js": "app-139d8012c749781f808c.js",
   "c339cc3bbe48519acdf171418c9fdfca02ad2553-300a3410d32b84422e2a.js.map": "c339cc3bbe48519acdf171418c9fdfca02ad2553-300a3410d32b84422e2a.js.map",
   "c339cc3bbe48519acdf171418c9fdfca02ad2553-8fdd3a7e597ada7208ce.js.map": "c339cc3bbe48519acdf171418c9fdfca02ad2553-8fdd3a7e597ada7208ce.js.map",
   "c339cc3bbe48519acdf171418c9fdfca02ad2553.js": "c339cc3bbe48519acdf171418c9fdfca02ad2553-8fdd3a7e597ada7208ce.js",
@@ -9,7 +10,8 @@
   "component---src-pages-404-js.js": "component---src-pages-404-js-c375c744c55eae7a1c07.js",
   "component---src-pages-about-js-141748fd4122df3d3049.js.map": "component---src-pages-about-js-141748fd4122df3d3049.js.map",
   "component---src-pages-about-js-83c391e536d5268cef90.js.map": "component---src-pages-about-js-83c391e536d5268cef90.js.map",
-  "component---src-pages-about-js.js": "component---src-pages-about-js-141748fd4122df3d3049.js",
+  "component---src-pages-about-js-9815262893230ec5515a.js.map": "component---src-pages-about-js-9815262893230ec5515a.js.map",
+  "component---src-pages-about-js.js": "component---src-pages-about-js-9815262893230ec5515a.js",
   "component---src-pages-contact-js-619911fef585ac70b6b9.js.map": "component---src-pages-contact-js-619911fef585ac70b6b9.js.map",
   "component---src-pages-contact-js-9ab11b33168f813840ec.js.map": "component---src-pages-contact-js-9ab11b33168f813840ec.js.map",
   "component---src-pages-contact-js.js": "component---src-pages-contact-js-619911fef585ac70b6b9.js",
@@ -45,13 +47,14 @@
   "static/header-main.jpg": "static/header-main-888f0399a51c467f72b9ac350bf6bf15.jpg",
   "static/neu.jpg": "static/neu-fb26f437ec56aafb7944dff1e3f9faf2.jpg",
   "static/piNNit.png": "static/piNNit-5ce1f212cb9993f0ee26479a6ccad253.png",
-  "static/profile_pic.jpg": "static/profile_pic-2cd00a964198a91c93f8b74f4a9bff4e.jpg",
+  "static/profile_pic.jpg": "static/profile_pic-a84022b1fa9147deb82442b4d26b1b40.jpg",
   "static/series.png": "static/series-99e278c012206228c168146f68435fd2.png",
   "static/syntel.jpg": "static/syntel-95e6e13f84ed23e0748eef862b6c03e8.jpg",
   "static/web.png": "static/web-c039b7917ad9319cb21b06493d0bf6b6.png",
   "static/website.png": "static/website-893e9ac850870b27e87ea30b6ad77c16.png",
   "styles.css": "styles.657006215f01059af40b.css",
+  "webpack-runtime-2e89c6b80bf7d1aeb341.js.map": "webpack-runtime-2e89c6b80bf7d1aeb341.js.map",
   "webpack-runtime-4ac640f595bcd0a6ab9f.js.map": "webpack-runtime-4ac640f595bcd0a6ab9f.js.map",
   "webpack-runtime-7d7442ee5779af521fe2.js.map": "webpack-runtime-7d7442ee5779af521fe2.js.map",
-  "webpack-runtime.js": "webpack-runtime-7d7442ee5779af521fe2.js"
+  "webpack-runtime.js": "webpack-runtime-2e89c6b80bf7d1aeb341.js"
 }
