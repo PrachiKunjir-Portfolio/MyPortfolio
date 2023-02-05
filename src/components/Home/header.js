@@ -37,8 +37,7 @@ const Header = () => {
             Expert Front End Developer with a passion for crafting visually stunning and highly functional websites and applications. I bring a deep understanding of modern web development techniques and trends. Proven track record of delivering high-quality, on-time results through efficient problem-solving and strong attention to detail. Committed to staying up-to-date with industry advancements and continuously improving my skills. Ready to bring my expertise and creativity to your next web development project.
             <br />
             <br />
-            Learn more about me..
-
+            Learn more about me...
           </h2>
           </div>
           </div>
