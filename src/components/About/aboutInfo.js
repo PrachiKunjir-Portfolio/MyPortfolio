@@ -1,12 +1,11 @@
 import React from 'react'
 import profilepic from "../../images/profile_pic.jpg"
-import Pic from "../../images/Pic.jpg"
 
 const AboutInfo = () => {
   return (
     <div className="max-w-7xl mx-auto mt-10">
         <div className="bg-white bg-opacity-10 w-full h-120 flex flex-row justify-between rounded-xl xxs:flex-col sm:flex-row">
-          <img className="w-3/4 object-cover h-96 rounded-l-lg xxs:w-full sm:w-3/4" src={Pic}></img>
+          <img className="w-3/4 object-cover h-96 rounded-l-lg xxs:w-full sm:w-3/4" src={profilepic}></img>
             <div className="flex flex-col">
           <div className="text-white text-right mb-0 mt-2 ml-6 mr-5 font-poppins xxs:text-center sm:text-right">
             <h1 className="text-5xl font-bold">Prachi Kunjir</h1>
