@@ -12,10 +12,10 @@ const Footer = () => {
           <p className="text-white text-sm mt-5 opacity-50">
           Thank you for visiting my portfolio. I am actively seeking fulltime opportunities starting may 2023, I would love to hear from you and answer any questions you may have. Whether you're looking to collaborate on a project, need more information about my work, or simply want to say hello, I welcome all inquiries. You can reach me via email at <h1 className="text-xl text-bold">kunjir.p@northeastern.edu</h1>or text/call me at <h1 className="text-xl text-bold">6178773133,</h1> or use the form to send me a message. I look forward to connecting with you!
           </p>
-          <h1 className="text-white text-lg mt-20 ">
+          {/* <h1 className="text-white text-lg mt-20 ">
             © copyright{" "}
             <a>Prachi Kunjir</a>
-          </h1>
+          </h1> */}
         </div>
         <div className="px-20">
             <form action="https://formsubmit.co/kunjir.p@northeastern.edu" method="POST">
