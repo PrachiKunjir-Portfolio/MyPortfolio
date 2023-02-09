@@ -70,7 +70,7 @@ const Navbar = () => {
           <div className="md-px-2 pt-2 pb-3 space-y-1 sm:px-3">
             <a
               className="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-              href="/home"
+              href="/https://prachikunjir26.github.io/prachikunjirportfolio/"
             >
               Home
             </a>
