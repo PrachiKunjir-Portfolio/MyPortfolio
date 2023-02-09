@@ -70,25 +70,25 @@ const Navbar = () => {
           <div className="md-px-2 pt-2 pb-3 space-y-1 sm:px-3">
             <a
               className="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-              href="/https://prachikunjir26.github.io/prachikunjirportfolio/"
+              href="https://prachikunjir26.github.io/prachikunjirportfolio/"
             >
               Home
             </a>
             <a
               className="text-gray-800 dark:text-white block px-3 py-2 rounded-md text-base font-medium"
-              href="/about"
+              href="https://prachikunjir26.github.io/prachikunjirportfolio/about"
             >
               About
             </a>
             <a
               className="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-              href="/education"
+              href="https://prachikunjir26.github.io/prachikunjirportfolio/education"
             >
               Education
             </a>
             <a
               className="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-              href="/work"
+              href="https://prachikunjir26.github.io/prachikunjirportfolio/work"
             >
               Work
             </a>
