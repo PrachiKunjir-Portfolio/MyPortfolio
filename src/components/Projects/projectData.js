@@ -12,7 +12,7 @@ const ProjectData = () => {
   return (
       <div>
         <Project 
-        Title="pNNit - Mern Stack Application"
+        Title="piNNit - Mern Stack Application"
         Info1="A google keep clone. "
         Info2="Developed a Notes application from scratch using MERN Stack. NodeJS backend and the frontend is developed in React with RESTful web services.
         Used an integrated database model using MongoDB to leverage the React architecture, with minimalistic UI using HTML, CSS, SASS. Extensively used Git for controlling the various versions of code and maintained git branches
@@ -21,7 +21,7 @@ const ProjectData = () => {
         Img1={piNNit}
         Title2="E-Farming"
         Info3="Developedauser-friendlye-farming java applicationusing OOPS conceptswith advanced interfacebuild using Java Swing library."
-        Info4="Application provided farmersonline systemfor better crop managementand help earn good profitsTechZane(MERN stack)."
+        Info4="Application provided farmersonline systemfor better crop managementand help earn good profits."
         link2="https://github.com/prachikunjir26/E-farming---Java-Swing/tree/main/AED_Final_Project_eFarming"
         Img2={aed1}
         ></Project>
@@ -53,7 +53,7 @@ const ProjectData = () => {
         5. Need some other option if you have any emergency
         6. In the 5th option, you can connect with flight support services and get a solution to your problem. In this way, if you have any emergency, you can avoid standing in lines and get immediate help from airlines. This is offered because, at the airport, airlines can't increase staff suddenly for all flight attendees.
         This offered solution will help make travelers' experience very smooth in the case of such emergencies and you can choose what you want to do without any physical effort.
-       View prototype by using this link: https://www.figma.com/file/pc7iLNvU23kaKwQQ7Mfl6h/Assignment-8?node-id=0%3A1&t=YIrUk1wgekB1kLbD-1 "
+       View prototype by using this link- https://www.figma.com/file/pc7iLNvU23kaKwQQ7Mfl6h/Assignment-8?node-id=0%3A1&t=YIrUk1wgekB1kLbD-1 "
        link2="https://github.com/prachikunjir26/TravelCare" 
        Img2={UIUX}
         ></Project>

@@ -16,14 +16,14 @@ const Header = () => {
           <h1 className="text-white font-poppins font-semibold text-2xl xxs:text-2xl xs:text-2xl sm:text-lg md:text-2xl lg:text-4xl xl:text-3xl 2xl:text-4xl">
             Change starts with <br></br> a{" "}
             <span class="text-gradient bg-gradient-to-r from-pink-400 to-purple-500">
-              Front-end Developer.
+              Software Developer.
             </span>
           </h1>
           </div>
           <div className="rounded-xl w-56 h-12 ml-55 mt-32 flex flex-col content-center justify-center align-middle text-center bg-gradient-to-r bg-white bg-opacity-10 hover:from-purple-400 hover:to-pink-300 transition duration-500 ease-in-out">
             <h1 className="text-white text-xl"> <Link
                   className="text-white cursor-pointer font-poppins"
-                  to="https://drive.google.com/file/d/1tkmL7bx3iEoT8WQ8ks7W0qe7iTVmnLx0/view?usp=share_link"
+                  to="https://drive.google.com/file/d/1kswySpz0Ty2tEZy_P34MQRy4eumNbpW5/view?usp=share_link"
                 >
                   Download Resume
                 </Link></h1>
@@ -34,7 +34,7 @@ const Header = () => {
       <div className="flex flex-row space-x-96">
           <div className="mr-5">
           <h2 className="text-white font-poppins opacity-50 font-semibold mt-20 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-xl">
-            Expert Front End Developer with a passion for crafting visually stunning and highly functional websites and applications. I bring a deep understanding of modern web development techniques and trends. Proven track record of delivering high-quality, on-time results through efficient problem-solving and strong attention to detail. Committed to staying up-to-date with industry advancements and continuously improving my skills. Ready to bring my expertise and creativity to your next web development project.
+            Expert Software Developer/Front End Developer with a passion for crafting visually stunning and highly functional websites and applications. I bring a deep understanding of modern web development techniques and trends. Proven track record of delivering high-quality, on-time results through efficient problem-solving and strong attention to detail. Committed to staying up-to-date with industry advancements and continuously improving my skills. Ready to bring my expertise and creativity to your next web development project.
             <br />
             <br />
             Learn more about me...

@@ -28,7 +28,7 @@ const EducationDetails = () => {
             href="#"
             className="m-5 p-5 bg-lightblack rounded-xl border cursor-pointer hover:border-purple text-left"
           >
-            <h2 className="text-3xl font-bold">Bachlor of Engineering in Computer Science</h2>
+            <h2 className="text-3xl font-bold">Bachelor of Engineering in Computer Science</h2>
             <h2 className="text-xl">Pune University, India</h2> 
             <h2 className="text-xl">June 2014 - June 2018</h2>
             <p className="mt-10 opacity-50">
