@@ -115,6 +115,10 @@ const Skills = () => {
                 <h1 className="text-white text-5xl">AWS CodeDeploy</h1>
                 <h3 className="text-white">Beginner</h3>
               </div>
+              <div className="rounded-xl w-full h-52 flex flex-col content-center justify-center align-middle text-center m-5 bg-gradient-to-r bg-white bg-opacity-10 hover:from-purple-400 hover:to-pink-300 transition duration-500 ease-in-out">
+                <h1 className="text-white text-5xl">Kubernetes</h1>
+                <h3 className="text-white">Beginner</h3>
+              </div>
             </div>
           </Fade>
         </div>
