@@ -165,7 +165,7 @@ Conducted labs to teach practical assignments of many full stack technologies su
               <div className="w-3/4 m-2 text-white bg-lightblack p-8 rounded-xl">
                 {/* <h2 className="text-sm opacity-50 font-semibold">Careers</h2> */}
                 <h1 className="text-4xl font-bold">
-                  Atos|Syntel 
+                  FedEx (Atos|Syntel) 
                   </h1>
                   <h1 className="text-2xl">
                   Software Deveoper</h1>
